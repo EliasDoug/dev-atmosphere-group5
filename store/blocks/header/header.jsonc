@@ -79,10 +79,9 @@
   "logo#desktop": {
     "props": {
       "title": "Logo",
-      "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo.png",
-      "width": "180",
-      "height": "12"
+      "src": "assets/imgs/logos/logo.png",
+      "width": "300",
+      "height": "300"
     }
   },
   "header-layout.mobile": {
@@ -112,8 +111,9 @@
 
   "menu#drawer": {
     "children": [
-      "menu-item#category-apparel",
-      "menu-item#category-home",
+      "menu-item#category-roupas",
+      "menu-item#category-almofadas",
+      "menu-item#category-canecas",
       "menu-item#more"
     ],
     "props": {
@@ -124,10 +124,9 @@
   "logo#mobile": {
     "props": {
       "title": "Logo",
-      "href": "/",
-      "url": "https://storecomponents.vteximg.com.br/arquivos/store-theme-logo-mobile.png",
-      "width": "77.5",
-      "height": "27.5"
+      "src": "assets/imgs/logos/logo.png",
+      "width": "80",
+      "height": "80"
     }
   }
 }

@@ -64,7 +64,7 @@
   "slider-layout#demo-products": {
     "props": {
       "itemsPerPage": {
-        "desktop": 4,
+        "desktop": 6,
         "tablet": 3,
         "phone": 1
       },
@@ -80,8 +80,8 @@
       "isFullModeStyle": false,
       "textPosition": "left",
       "imageUrl": "https://storecomponents.vteximg.com.br/arquivos/banner-infocard2.png",
-      "headline": "Clearance Sale",
-      "callToActionText": "DISCOVER",
+      "headline": "Camisetas Exclusivas",
+      "callToActionText": "CONFIRA!",
       "callToActionUrl": "/sale/d",
       "blockClass": "info-card-home",
       "textAlignment": "center"
@@ -90,14 +90,14 @@
 
   "rich-text#question": {
     "props": {
-      "text": "**This is an example store built using the VTEX platform.\nWant to know more?**",
+      "text": "**Escolha a melhor forma de pagamento para você!\nTambém trabalhamos com PIX**",
       "blockClass": "question"
     }
   },
 
   "rich-text#link": {
     "props": {
-      "text": "\n**Reach us at**\nwww.vtex.com.br",
+      "text": "\n**Email**\npix@.atmosphere.com.br",
       "blockClass": "link"
     }
   }

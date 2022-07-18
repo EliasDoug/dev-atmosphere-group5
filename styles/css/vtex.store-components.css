@@ -1,6 +1,6 @@
 .notificationBarContainer {
   background-color: #e6f1e6;
-  color: #03034e;
+  color: #45034e;
   font-weight: 700;
   font-size: 12px;
   text-decoration: underline;
@@ -14,7 +14,7 @@
 }
 
 .newsletter {
-  background-color: #03054e;
+  background-color: #45034e;
   max-width: 1528px;
   margin: 0 auto;
 }
@@ -103,7 +103,7 @@
 }
 
 .productNameContainer {
-  color: #3f3f40;
+  color: #403f40;
   font-weight: bold;
   font-size: 30px;
 }
